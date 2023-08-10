@@ -85,11 +85,6 @@ namespace H1___Programmering
                     Console.WriteLine("                                      ");
                 }
             }
-
-
-
-
-
             Console.ReadLine();
         }
     }
